@@ -25,3 +25,13 @@ _ide_helper.php
 Homestead.json
 Homestead.yaml
 Thumbs.db
+/.claude/settings.local.json
+/.claude-flow
+/.swarm
+/.ruflo
+/graphify-out
+/.fleet
+/coverage
+*.sqlite-journal
+npm-debug.log
+yarn-error.log
